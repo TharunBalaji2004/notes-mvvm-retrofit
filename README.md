@@ -3,3 +3,5 @@ A Basic Notes Android app which supports CRUD operations and implemented with se
 
 ## Notes RESTful API
 Checkout here: https://github.com/TharunBalaji2004/notes-crud-api.git
+
+Do star ⭐ it for future reference!
