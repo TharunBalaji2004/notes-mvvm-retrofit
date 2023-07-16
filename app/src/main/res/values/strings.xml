@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">mvvm_notes_app</string>
+    <string name="app_name">Note Master</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="txt_no_account_signup">Don\'t have an account? <font color="#2196F3">Register Now</font></string>

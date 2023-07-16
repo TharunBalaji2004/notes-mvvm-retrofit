@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/loginFragment"
-        android:name="com.tharunbalaji.mvvm_notes_app.LoginFragment"
+        android:name="com.tharunbalaji.mvvm_notes_app.views.LoginFragment"
         android:label="fragment_login"
         tools:layout="@layout/fragment_login" >
         <action
@@ -18,7 +18,7 @@
     </fragment>
     <fragment
         android:id="@+id/registerFragment"
-        android:name="com.tharunbalaji.mvvm_notes_app.RegisterFragment"
+        android:name="com.tharunbalaji.mvvm_notes_app.views.RegisterFragment"
         android:label="fragment_register"
         tools:layout="@layout/fragment_register" >
         <action
@@ -33,7 +33,7 @@
     </fragment>
     <fragment
         android:id="@+id/mainFragment"
-        android:name="com.tharunbalaji.mvvm_notes_app.MainFragment"
+        android:name="com.tharunbalaji.mvvm_notes_app.views.MainFragment"
         android:label="fragment_main"
         tools:layout="@layout/fragment_main" >
         <action
@@ -42,7 +42,7 @@
     </fragment>
     <fragment
         android:id="@+id/noteFragment"
-        android:name="com.tharunbalaji.mvvm_notes_app.NoteFragment"
+        android:name="com.tharunbalaji.mvvm_notes_app.views.NoteFragment"
         android:label="fragment_note"
         tools:layout="@layout/fragment_note" />
 </navigation>

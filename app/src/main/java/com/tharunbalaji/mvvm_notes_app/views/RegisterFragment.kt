@@ -1,14 +1,14 @@
-package com.tharunbalaji.mvvm_notes_app
+package com.tharunbalaji.mvvm_notes_app.views
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.TextView
 import androidx.core.view.isVisible
 import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.findNavController
+import com.tharunbalaji.mvvm_notes_app.R
 import com.tharunbalaji.mvvm_notes_app.databinding.FragmentRegisterBinding
 import com.tharunbalaji.mvvm_notes_app.models.UserRequest
 import com.tharunbalaji.mvvm_notes_app.utils.NetworkResult
